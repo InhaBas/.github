@@ -11,3 +11,6 @@ IBAS 개발팀은 동아리의 활동과 비전을 온라인에 효과적으로 
 
 The IBAS development team hosts a website to effectively communicate the club's activities and vision online. The IBAS website is used as a platform to strengthen communication with members and to promote the club's activities to the outside world.
 
+[IBAS 웹페이지 바로가기](https://www.inhabas.com/)
+
+[Visit the IBAS website](https://www.inhabas.com/)
