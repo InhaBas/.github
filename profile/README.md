@@ -7,7 +7,7 @@ IBAS개발팀은 동아리의 활동과 비전을 온라인에 효과적으로 �
 [IBAS 웹페이지 바로가기](https://www.inhabas.com/)
 
 # IBAS (Inha Bigdata Analysis Society)
-IBAS, which stands for Inha Bigdata Analysis Society, is a notable academic club at Inha University that focuses on data analysis and machine learning. With a dedicated IBAS development team, the society not only focuses on web development and data engineering, but also aims for broad engagement in various IT fields.
+IBAS, which stands for Inha Bigdata Analysis Society, is a notable academic club at Inha University. It primarily explores fields related to data, such as data analysis and machine learning, and hosts a dedicated IBAS development team that focuses on web development and data engineering, aiming for activity across various IT fields.
 
 To effectively communicate its mission, achievements and activities to a wider audience, the IBAS development team maintains an informative website. This online platform plays a crucial role in enhancing interaction with members and promoting the Society's endeavours to the outside world.
 
