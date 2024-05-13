@@ -12,3 +12,7 @@ IBAS, which stands for Inha Bigdata Analysis Society, is a notable academic club
 To effectively communicate its mission, achievements and activities to a wider audience, the IBAS development team maintains an informative website. This online platform plays a crucial role in enhancing interaction with members and promoting the Society's endeavours to the outside world.
 
 Explore the IBAS website to learn more about their projects, achievements and how they contribute to the field of Big Data and IT. [Visit the IBAS website](https://www.inhabas.com/)
+
+
+# Architecture
+![제목 없는 다이어그램 drawio](https://github.com/InhaBas/.github/assets/65115045/92b53331-ab45-43b2-95bd-a9639b362dce)
