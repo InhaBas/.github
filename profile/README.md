@@ -1,9 +1,5 @@
 
-
 ![logo_fixed3](https://github.com/InhaBas/.github/assets/99078115/512533bf-71d3-480c-9d0b-f0cbd45221ba)
-
-<img width="856" alt="logo_fixed2" src="https://github.com/InhaBas/.github/assets/99078115/2ab82089-9a6d-4670-b70d-698b4827b336">
-
 
 # IBAS (Inha Bigdata Analysis Society)
 IBAS는 인하대학교의 빅데이터 학술동아리 입니다. 주로 데이터 분석 및 머신러닝 같은 데이터 관련 분야를 탐구하며, 웹 개발과 데이터 엔지니어링에 중점을 둔 IBAS 개발팀이 있어, 다양한 IT 분야에서의 활동을 지향하고 있습니다.
