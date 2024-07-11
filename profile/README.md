@@ -6,7 +6,7 @@ IBAS는 인하대학교의 빅데이터 학술동아리 입니다. 주로 데이
 IBAS개발팀은 동아리의 활동과 비전을 온라인에 효과적으로 전달하기 위해 웹 페이지를 운영하고 있습니다. IBAS 웹페이지는 회원들과의 소통을 강화하고 외부에 동아리의 활동을 알리는 플랫폼으로 활용되고 있습니다.
 
 - [IBAS 웹페이지 바로가기](https://www.inhabas.com/)
-- [2023.09~2024.07 웹서비스 개발 문서]([https://www.notion.so/IBAS-049505480e5f4bebbb01bfc9b1e9c3c0](https://sparkly-lunge-241.notion.site/IBAS-049505480e5f4bebbb01bfc9b1e9c3c0))
+- [2023.09~2024.07 웹서비스 개발 문서](https://sparkly-lunge-241.notion.site/IBAS-049505480e5f4bebbb01bfc9b1e9c3c0)
 
 # IBAS (Inha Bigdata Analysis Society)
 IBAS, which stands for Inha Bigdata Analysis Society, is a notable academic club at Inha University. It primarily explores fields related to data, such as data analysis and machine learning, and hosts a dedicated IBAS development team that focuses on web development and data engineering, aiming for activity across various IT fields.
@@ -16,7 +16,7 @@ To effectively communicate its mission, achievements and activities to a wider a
 Explore the IBAS website to learn more about their projects, achievements and how they contribute to the field of Big Data and IT.
 
 - [Visit the IBAS website](https://www.inhabas.com/)
-- [Detailed Documentation on Web Service Development (Sept 2023 - July 2024)](https://www.notion.so/IBAS-049505480e5f4bebbb01bfc9b1e9c3c0)
+- [Detailed Documentation on Web Service Development (Sept 2023 - July 2024)](https://sparkly-lunge-241.notion.site/IBAS-049505480e5f4bebbb01bfc9b1e9c3c0)
 
 
 # Architecture
